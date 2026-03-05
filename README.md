@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Islam Abdeen 👋
 
-<!--
-**islamabdeen1-cmyk/islamabdeen1-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ERP Automation Specialist | Odoo | Python | API Integration | Retail Systems
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Automation
+- Odoo ERP
+- API Integration
+- Excel Automation
+- Retail Systems
+- Data Processing
+
+## Projects
+
+🔹 Attendance Odoo Integration  
+🔹 Smart Attendance Reporter  
+🔹 Retail Stock Planner  
+
+## Location
+
+Cairo, Egypt
